@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**anthonynoelw/anthonynoelw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Noel Weiß, a passionate Software Engineer from Germany who loves to build things. 
 
-Here are some ideas to get you started:
+### Technologies I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![.NET](https://img.shields.io/badge/.NET-blueviolet?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-orange?logo=csharp&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
+
+If you want to contact me ust give me message on [LinkedIn](https://www.linkedin.com/in/noel-weiss) or send me a <a href="mailto:noel@noelweiss.de?subject=Let's%20Connect&body=Hi%20from%20GitHub!">
+  Mail
+</a>.
