@@ -1,4 +1,4 @@
-<h1>Noel Weiß</h1>
+<h1>Anthony Noel Weiß</h1>
 
 <p>
   <strong>Software engineer. C# · Python · PHP. Currently building security-focused systems that work.</strong><br>
