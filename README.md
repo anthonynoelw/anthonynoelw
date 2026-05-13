@@ -31,7 +31,7 @@ Four-month plan, publicly tracked. Each milestone is a deliverable, not a tutori
 
 **[dotnet-project-template](https://github.com/anthonynoelw/dotnet-project-template)** — Opinionated .NET project template with StyleCop.Analyzers, EditorConfig, and CI baked in. *Why it exists:* I got tired of re-doing the same setup work on every new project, and I wanted a template that enforces quality from commit one rather than retrofitting it later.
 
-*More projects landing over the next four months — the goal is fewer, deeper repos, not more.*
+*More projects landing over the next months — the goal is fewer, deeper repos, not more.*
 
 ---
 
