@@ -22,7 +22,7 @@ Four-month plan, publicly tracked. Each milestone is a deliverable, not a tutori
 |---|---|---|
 | **Now** | Containerisation + CI/CD discipline | One project fully Dockerised, GitHub Actions running |
 | **Next** | Kubernetes | A Service deployed to a local minikube cluster. |
-| **Then** | The Sentinal | Stay tuned|
+| **On the side** | The Sentinal | Stay tuned |
 ---
 
 ### Pinned work
