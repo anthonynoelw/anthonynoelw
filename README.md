@@ -1,7 +1,7 @@
 <h1>Anthony Noel Weiß</h1>
 
 <p>
-  <strong>Software engineer. C# · Python · PHP. Currently building security-focused systems that work.</strong><br>
+  <strong>Software engineer. C# · Python · PHP. Currently building security-focused systems that matter</strong><br>
   Based in Fürth, Germany 🇩🇪 · <br> · <a href="https://www.linkedin.com/in/noel-weiss">LinkedIn</a>  <br> · <a href="mailto:noel@noelweiss.de">noel@noelweiss.de</a>
 </p>
 
@@ -22,7 +22,7 @@ Four-month plan, publicly tracked. Each milestone is a deliverable, not a tutori
 |---|---|---|
 | **Now** | Containerisation + CI/CD discipline | One project fully Dockerised, GitHub Actions running |
 | **Next** | Kubernetes | A Service deployed to a local minikube cluster. |
-| **Then** | End-to-end ownership | One project shipped to a real URL with logging, metrics, and a written architecture doc |
+| **Then** | The Sentinal | Stay tuned|
 ---
 
 ### Pinned work
