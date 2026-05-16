@@ -14,17 +14,6 @@ When something breaks, I want to know *why* before I want to know *how to fix it
 
 ---
 
-### What I'm working on
-
-Four-month plan, publicly tracked. Each milestone is a deliverable, not a tutorial completion.
-
-| | Focus | Concrete output |
-|---|---|---|
-| **Now** | Containerisation + CI/CD discipline | One project fully Dockerised, GitHub Actions running |
-| **Next** | Kubernetes | A Service deployed to a local minikube cluster. |
-| **On the side** | The Sentinal | Stay tuned |
----
-
 ### Pinned work
 
 **[magicguard](https://github.com/anthonynoelw/magicguard)** — Python CLI for basic malware screening. Verifies file magic bytes against expected signatures and computes SHA-256 hashes to flag spoofed or tampered files. *What it taught me:* how often "trusted" file-type detection is wrong, and why signature verification belongs upstream of any handler that touches user uploads.
