@@ -2,7 +2,7 @@
 
 <p>
   <strong>Software engineer. C# · Python · PHP. Currently building security-focused systems that matter</strong><br>
-  Based in Fürth, Germany 🇩🇪 · <br> · <a href="https://www.linkedin.com/in/noel-weiss">LinkedIn</a>  <br> · <a href="mailto:noel@noelweiss.de">noel@noelweiss.de</a>
+  Based in Fürth, Germany 🇩🇪 · <br> · <a href="https://www.linkedin.com/in/noel-weiss">LinkedIn</a>  <br> · <a href="mailto:anthony@noelweiss.de">anthony@noelweiss.de</a>
 </p>
 
 ---
@@ -44,4 +44,4 @@ I train rugby and do long-distance cycling. It's not a hobby in the "list it on 
 
 ### Contact
 
-If you're hiring, building something interesting, or want to argue about whether a `try/except: pass` is ever justified (it isn't): **[noel@noelweiss.de](mailto:noel@noelweiss.de)**.
+If you're hiring, building something interesting, or want to argue about whether a `try/except: pass` is ever justified (it isn't): **[anthony@noelweiss.de](mailto:anthony@noelweiss.de)**.
