@@ -10,7 +10,7 @@
 ### How I think about engineering
 
 I treat software the way I treat training: **the standard is non-negotiable, and the only way to raise it is by reps that actually hurt.** I'd rather ship a small system I fully understand than a large one held together by hope.
-When something breaks, I want to know *why* before I want to know *how to fix it* — a habit I picked up from cybersecurity work, where adversarial thinking forces you to model systems from scratch instead of trusting the abstractions.
+When something breaks, I want to know *why* before I want to know *how to fix it*
 
 ---
 
@@ -28,8 +28,8 @@ When something breaks, I want to know *why* before I want to know *how to fix it
 
 ```
 Production-comfortable     C#/.NET · REST · SQL · Git
-Actively learning          Docker · Kubernetes · System design
-Tooling I care about       Claude Code · GitHub Actions · xUnit
+Actively learning          System design
+Tooling I care about       Claude Code · CI/CD · Docker
 ```
 
 The "actively learning" row is current as of this README — once something moves into a working repo, it moves up.
@@ -38,7 +38,7 @@ The "actively learning" row is current as of this README — once something move
 
 ### Outside the editor
 
-I train rugby and do long-distance cycling. It's not a hobby in the "list it on a CV" sense; it's the same operating model I bring to engineering. A bad rep is a bad rep, whether it's a missed tackle or a function that "works on my machine." Showing up, measuring honestly, and getting a little bit better every day is the only thing that compounds.
+I train rugby and do weightlifting. It's not a hobby in the "list it on a CV" sense; it's the same operating model I bring to engineering. A bad rep is a bad rep, whether it's a missed tackle or a function that "works on my machine." Showing up, measuring honestly, and getting a little bit better every day is the only thing that compounds.
 
 ---
 
