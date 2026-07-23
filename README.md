@@ -20,6 +20,8 @@ When something breaks, I want to know *why* before I want to know *how to fix it
 
 **[dotnet-project-template](https://github.com/anthonynoelw/dotnet-project-template)** — Opinionated .NET project template with StyleCop.Analyzers, EditorConfig, and CI baked in. *Why it exists:* I got tired of re-doing the same setup work on every new project, and I wanted a template that enforces quality from commit one rather than retrofitting it later.
 
+**[locksmith](https://github.com/anthonynoelw/locksmith)** - .NET Api for managing api Keys. **What I learned from it:** I learned how manage API Keys in a secure way and that you should always double check your work. That way i could have avoided [refactoring](https://github.com/anthonynoelw/locksmith/pull/7) all endpoints..
+
 *More projects landing over the next months — the goal is fewer, deeper repos, not more.*
 
 ---
